@@ -1,0 +1,85 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+ 
+}
+.container{
+  background-image:url('4g.png');
+  background-repeat: no-repeat;
+  width:100%;
+  height:500px;
+  background-color: blueviolet;
+  background-size: cover;
+  padding-left: ;
+  padding-right:;
+  background-position: center;
+  padding: 10px 8%;
+}
+nav{
+  width:100%;
+display: flex;
+align-items: center;
+justify-content: space-between ;
+padding: 10px 20px;
+}
+
+nav ul{
+  list-style: none ;
+  width: 100%;
+  text-align: right;
+  padding-right: 40px ;
+}
+nav ul li{
+  display: inline-block;
+  margin: 10px 10px;
+  
+}
+nav ul li a{
+  text-decoration: none;
+}
+.logo{
+  cursor: pointer;
+  width: 180px;
+}
+
+  
+ 
+  
+
+li a{
+  color:aliceblue
+  
+}
+.box{
+  width:1000px;
+  height: auto;
+  margin: 20px auto;
+  border: 1px solid blue;
+  display:flex;
+  justify-content:center;
+}
+.box1{
+  width:148px;
+  border: 1px solid aqua;
+  padding: 10px;
+  margin: 40px;
+  float: left;
+  height: 300px;
+  background-color:red;
+  font-size: 15px;
+  text-align: justify;
+ 
+  
+
+}
+.container1{
+  background-color: brown;
+
+}
+.box2{
+  background-color: aqua;
+  height: 200px;
+  max-width:140px;
+
+}
